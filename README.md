@@ -7,6 +7,6 @@ Part of my study in youtube channel that is: https://www.youtube.com/watch?v=QFa
 ----
 
 NEXT-> 
-https://www.youtube.com/watch?v=5_PdMS9CLLI&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=12
+https://www.youtube.com/watch?v=Znqv84xi8Vs&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=13
 
-ReactJS Tutorial - 12 - Destructuring props and state
+ReactJS Tutorial - 13 - Event Handling
