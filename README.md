@@ -7,6 +7,6 @@ Part of my study in youtube channel that is: https://www.youtube.com/watch?v=QFa
 ----
 
 NEXT-> 
-https://www.youtube.com/watch?v=Znqv84xi8Vs&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=13
+https://www.youtube.com/watch?v=5s8Ol9uw-yM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=17
 
-ReactJS Tutorial - 13 - Event Handling
+ReactJS Tutorial - 17 - ReactJS Tutorial - 17 - List Rendering
