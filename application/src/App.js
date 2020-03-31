@@ -17,6 +17,7 @@ import InLine from './components/InLine';
 import './appStyles.css';
 import styles from './appStyles.module.css'
 import Form from './components/Form';
+import LifecycleA from './components/LifecycleA';
 
 
 class App extends Component {
@@ -24,7 +25,7 @@ class App extends Component {
   render() {
     return (      
       <div className="App">
-        <Form />
+        <LifecycleA />
       </div>
     );
   }
